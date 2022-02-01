@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811470167694",
+    "project_id": "larapushnoti-6edf2",
+    "storage_bucket": "larapushnoti-6edf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811470167694:android:c8c79af74a9311842933df",
+        "android_client_info": {
+          "package_name": "com.qr.code.db.db_qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811470167694-c72o1evs7uhs9e0jd2d328n6p8in0pvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4erLYuJXe-T-MfJWC5HbKyt5fbPrtOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811470167694-c72o1evs7uhs9e0jd2d328n6p8in0pvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
